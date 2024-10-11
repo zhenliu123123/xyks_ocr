@@ -118,18 +118,17 @@ if __name__ == "__main__":
 **部署教程：**
 1. 安装BlueStacks 5模拟器：
 ![image](1.png)
-3. 打开模拟器：绘制大于号小于号的脚本并绑定按键（大于号是'.' 小于号是','）
+2. 打开模拟器：绘制大于号小于号的脚本并绑定按键（大于号是'.' 小于号是','）
 ![image](2.png)
-4. 安装tesseract（不会安装的话csdn搜安装教程），安装完成后第十行代码改成安装好的tesseract的路径
+3. 安装tesseract（不会安装的话csdn搜安装教程），安装完成后第十行代码改成安装好的tesseract的路径
 ![image](3.png)
-5. pycharm终端安装所需要的库：
+4. pycharm终端安装所需要的库：
 ~~~cmd
 pip install opencv-python pyautogui pytesseract keyboard numpy
 ~~~
-![image](4.png)
-5. 用截图工具查找坐标并替换代码中的坐标
 ![image](5.png)
-
+5. 用截图工具查找坐标并替换代码中的坐标
 ![image](6.png)
-7. 运行程序
 ![image](7.png)
+6. 运行程序
+![image](8.png)
