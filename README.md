@@ -117,12 +117,12 @@ if __name__ == "__main__":
 ~~~
 **部署教程：**
 1. 安装BlueStacks 5模拟器：
-[![在这里插入图片描述]([https://i-blog.csdnimg.cn/direct/bd1ee647522b4e809308dad28db6c1fa.png](https://i-blog.csdnimg.cn/direct/bd1ee647522b4e809308dad28db6c1fa.png))](https://i-blog.csdnimg.cn/direct/bd1ee647522b4e809308dad28db6c1fa.png)
-2. 打开模拟器：绘制大于号小于号的脚本并绑定按键（大于号是'.' 小于号是','）
+   (1.png)
+3. 打开模拟器：绘制大于号小于号的脚本并绑定按键（大于号是'.' 小于号是','）
 [![在这里插入图片描述]([https://i-blog.csdnimg.cn/direct/a9a6f40187264e3bac90d8e0284c2ec1.png](https://i-blog.csdnimg.cn/direct/a9a6f40187264e3bac90d8e0284c2ec1.png))](https://i-blog.csdnimg.cn/direct/a9a6f40187264e3bac90d8e0284c2ec1.png)
-3. 安装tesseract（不会安装的话csdn搜安装教程），安装完成后第十行代码改成安装好的tesseract的路径
+4. 安装tesseract（不会安装的话csdn搜安装教程），安装完成后第十行代码改成安装好的tesseract的路径
 [![在这里插入图片描述]([https://i-blog.csdnimg.cn/direct/21b71b86eb2b4c25b544ea5de7074bfd.png](https://i-blog.csdnimg.cn/direct/21b71b86eb2b4c25b544ea5de7074bfd.png))](https://i-blog.csdnimg.cn/direct/21b71b86eb2b4c25b544ea5de7074bfd.png)
-4. pycharm终端安装所需要的库：
+5. pycharm终端安装所需要的库：
 ~~~cmd
 pip install opencv-python pyautogui pytesseract keyboard numpy
 ~~~
